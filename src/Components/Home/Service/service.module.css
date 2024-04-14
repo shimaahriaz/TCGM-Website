@@ -1,0 +1,16 @@
+.link
+{
+    color: white; 
+    text-decoration: none; 
+    transition: all 0.9s ease; 
+    margin-top: 15px;
+    text-align: end;
+    display: block;
+}
+
+
+.link:hover {
+    transform: scale(1.1); 
+    transition: all 0.9s ease; 
+}
+      
